@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054150076381",
+    "firebase_url": "https://esp32-to-android-default-rtdb.firebaseio.com",
+    "project_id": "esp32-to-android",
+    "storage_bucket": "esp32-to-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054150076381:android:4b95c6169c1485e1113834",
+        "android_client_info": {
+          "package_name": "com.example.simplebluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054150076381-jg0pfpbf8hl4248ftgkoe6r99ek4tkct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupZLF32h_5AVOUtpkykCk5sVZtZDSXQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054150076381-jg0pfpbf8hl4248ftgkoe6r99ek4tkct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

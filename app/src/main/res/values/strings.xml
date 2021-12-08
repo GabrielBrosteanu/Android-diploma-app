@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleBluetooth</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="let_s_hoop">Let\'s hoop!</string>
+    <string name="backgroun_image">background image</string>
+    <color name="blue1">#01024a</color>
+    <color name="yellow">#edaf02</color>
+</resources>
